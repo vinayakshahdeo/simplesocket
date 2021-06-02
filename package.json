@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/vinayakshahdeo/simplesocket/issues"
   },
-  "homepage": "https://github.com/vinayakshahdeo/simplesocket#readme"
+  "homepage": "https://github.com/vinayakshahdeo/simplesocket#readme",
+  "dependencies": {
+    "ws": "^7.4.6"
+  }
 }
